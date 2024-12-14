@@ -1,0 +1,13 @@
+[project]
+name = "linear-regression-ols-using-python-statsmodels"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "pandas>=2.2.3",
+    "scipy>=1.14.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+]
